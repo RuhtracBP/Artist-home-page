@@ -71,7 +71,7 @@ This is a simple project, it uses simple HTML, Javascript and Sass .
  <sub><b>Arthur CBP</b></sub></a> 
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurcbp)](https://www.linkedin.com/in/arthurCBP)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurcbp)](https://www.linkedin.com/in/arthurcbp)
 [![Gmail Badge](https://img.shields.io/badge/-arthurhcbp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurhcbp@gmail.com)](mailto:arthurhcbp@gmail.com)
 
 ---
