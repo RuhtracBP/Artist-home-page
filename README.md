@@ -65,13 +65,13 @@ This is a simple project, it uses simple HTML, Javascript and Sass .
 
 ## 🦸 Made By
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72520990?s=460&u=00c2c5f8f733a2d8eef3bf7873062d88e07b8172&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Arthur CBP</b></sub></a> 
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurCBP)](https://www.linkedin.com/in/arthurCBP)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurcbp)](https://www.linkedin.com/in/arthurCBP)
 [![Gmail Badge](https://img.shields.io/badge/-arthurhcbp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurhcbp@gmail.com)](mailto:arthurhcbp@gmail.com)
 
 ---
@@ -80,4 +80,4 @@ This is a simple project, it uses simple HTML, Javascript and Sass .
 
 licença [MIT](./LICENSE).
 
-Made by Arthur 👋🏽 [contatc](https://www.linkedin.com/in/arthurCBP/)
+Made by Arthur 👋🏽 [contatc](https://www.linkedin.com/in/arthurcbp/)
